@@ -1,0 +1,15 @@
+.btn-info:hover
+{
+    background-color:rgb(255, 146, 244);
+}
+
+.btn-primary:hover
+{
+    background-color:rgb(168, 62, 157);
+}
+
+h3
+{
+    font-size: 25px !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
