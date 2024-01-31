@@ -1,6 +1,6 @@
 function preload()
 {
-    
+    moustahce = loadImage('https://i.postimg.cc/CKDh7r3J/moustache.png')
 }
 
 function setup()
@@ -41,8 +41,6 @@ function take_snapshot()
 {
     save('moustache_filter_project.png')
 }
-
-webcam.attach('#camera');
 
 noseX=0;
 noseY=0;
